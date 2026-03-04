@@ -33,3 +33,4 @@ Mesmo no início da graduação, já tive contato por curiosidade com:
 🎮 Video games  
 🚶‍♂️ Caminhar e refletir  
 📺 Conteúdos sobre tecnologia e curiosidades  
+
