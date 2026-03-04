@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Olá, seja bem-vindo ao meu GitHub!
 
-<!--
-**frJoaoPedro/frJoaoPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Informações sobre mim
 
-Here are some ideas to get you started:
+🎓 Estudante de Ciência da Computação (1º período)  
+📚 Atualmente estudando Algoritmos e Programação e Interação Humano-Computador (IHC/UX)  
+🤖 Interessado em Inteligência Artificial e desenvolvimento Back-end (ainda explorando possibilidades)  
+💡 Curioso por tecnologia e sempre aprendendo algo novo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias que já explorei
+
+Mesmo no início da graduação, já tive contato por curiosidade com:
+
+☕ Java  
+🐍 Python  
+
+> Atualmente focado em construir uma base sólida em lógica e algoritmos.
+
+---
+
+### 🎯 Objetivos na graduação
+
+- Desenvolver uma base forte em lógica e estrutura de dados  
+- Explorar mais profundamente IA e desenvolvimento Back-end  
+- Construir projetos próprios ao longo da graduação  
+- Evoluir um commit por vez 🔥  
+
+---
+
+### 🎮 Fora do código
+
+🎮 Video games  
+🚶‍♂️ Caminhar e refletir (debug mental 😄)  
+📺 Conteúdos sobre tecnologia e curiosidades  
