@@ -9,13 +9,13 @@
 
 ---
 
-### 🛠️ Tecnologias que já explorei
+### 🛠️ Tecnologias que estou explorando
 
 Mesmo no início da graduação, já tive contato por curiosidade com:
 
 ☕ Java  
 🐍 Python  
-
+💻 C#
 > Atualmente focado em construir uma base sólida em lógica e algoritmos.
 
 ---
@@ -24,13 +24,12 @@ Mesmo no início da graduação, já tive contato por curiosidade com:
 
 - Desenvolver uma base forte em lógica e estrutura de dados  
 - Explorar mais profundamente IA e desenvolvimento Back-end  
-- Construir projetos próprios ao longo da graduação  
-- Evoluir um commit por vez 🔥  
+- Construir projetos próprios ao longo da graduação   
 
 ---
 
 ### 🎮 Fora do código
 
 🎮 Video games  
-🚶‍♂️ Caminhar e refletir (debug mental 😄)  
+🚶‍♂️ Caminhar e refletir  
 📺 Conteúdos sobre tecnologia e curiosidades  
