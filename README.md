@@ -26,9 +26,6 @@ Focado em projetos práticos e aprendizado contínuo 🚀
     <img src="https://img.shields.io/badge/Gmail-nebruxel.jp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/Nebruxel.jp">
-    <img src="https://img.shields.io/badge/Discord-@Nebruxel.jp-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </p>
 ---
 
