@@ -14,6 +14,17 @@
 - Explorar mais profundamente IA e desenvolvimento Back-end  
 - Construir projetos próprios ao longo da graduação   
 
+## 🌐 Where to find me
+
+<p align="center">
+  <a href="https://github.com/frJoaoPedro">
+    <img src="https://img.shields.io/badge/GitHub-frJoaoPedro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-65b1873b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Pedro-0077B5?style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
 ---
 
 <picture align="center">
