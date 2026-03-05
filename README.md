@@ -14,9 +14,21 @@ Focado em projetos práticos e aprendizado contínuo 🚀
 ---
 ## 🎯 Onde me encontrar♾️
 <p align="center">
-  <a href="https://github.com/frJoaoPedro"><img src="https://img.shields.io/badge/-frJoaoPedro-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-65b1873b0/"><img src="https://img.shields.io/badge/LinkedIn-João%20Pedro-0077B5?style=for-the-badge" /></a>
+  <a href="https://github.com/frJoaoPedro">
+    <img src="https://img.shields.io/badge/-frJoaoPedro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-65b1873b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Pedro-0077B5?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nebruxel.jp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nebruxel.jp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/Nebruxel.jp">
+    <img src="https://img.shields.io/badge/Discord-@Nebruxel.jp-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 ---
 
