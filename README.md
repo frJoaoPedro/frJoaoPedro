@@ -4,25 +4,22 @@
   </a>
 </div>
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 Olá! Sou o **João Pedro**, atualmente cursando o **1º período de Ciência da Computação na UNA Contagem**. atualmente pratico resolver problemas através do código e estou construindo minha base para me tornar um desenvolvedor robusto.
 
 * 🚀 Atualmente focado em **Algoritmos, Lógica de Programação e IHC/UX**.
-* 🧠 Meus interesses principais são **Inteligência Artificial** e arquitetura **Back-end**.
+*  Meus interesses principais são **Inteligência Artificial** e arquitetura **Back-end**.
 * 🇬🇧 Inglês intermediário (leitura técnica ativa).
 * 📍 Localizado em Contagem/MG.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-*Estudando e aplicando em projetos:*
+*No momento, focado em dominar a base da computação:*
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Lógica_de_Programação-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Lógica" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
 ---
