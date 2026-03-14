@@ -1,30 +1,30 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=%E2%9C%A6+Bem-vindo+ao+meu+GitHub!+%F0%9F%91%BE+%E2%9C%A6;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Focando+em+Back-end+e+IA" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=%E2%9C%A6+Welcome+to+my+GitHub!+%F0%9F%91%BE+%E2%9C%A6;Computer+Science+Student;Focusing+on+Back-end+and+AI" alt="Typing SVG">
   </a>
 </div>
 
-## Sobre mim
-Olá! Sou o **João Pedro**, atualmente cursando o **1º período de Ciência da Computação na UNA Contagem**. atualmente pratico resolver problemas através do código e estou construindo minha base para me tornar um desenvolvedor robusto.
+## About Me
+Hi! I'm **João Pedro**, a **Computer Science student** at UNA (Brazil). I'm currently focused on solving complex problems through code and building a solid foundation to become a robust software engineer.
 
-* 🚀 Atualmente focado em **Algoritmos, Lógica de Programação e IHC/UX**.
-*  Meus interesses principais são **Inteligência Artificial** e arquitetura **Back-end**.
-* 🇬🇧 Inglês intermediário (leitura técnica ativa).
-* 📍 Localizado em Contagem/MG.
+* 🚀 Currently diving deep into **Algorithms, Programming Logic, and UX/HCI**.
+* 🧠 My main interests are **Artificial Intelligence** and **Back-end architecture**.
+* 🇬🇧 Intermediate English (active technical reading).
+* 📍 Based in Contagem/MG, Brazil.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-*No momento, focado em dominar a base da computação:*
+## 🛠️ Technologies & Tools
+*Focusing on mastering the fundamentals of computing:*
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Lógica_de_Programação-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Lógica" />
+  <img src="https://img.shields.io/badge/Programming_Logic-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Logic" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&langs_count=7&theme=tokyonight" />
@@ -32,7 +32,7 @@ Olá! Sou o **João Pedro**, atualmente cursando o **1º período de Ciência da
 
 ---
 
-## 🎯 Onde me encontrar
+## 🎯 Connect with me
 <p align="center">
   <a href="https://github.com/frJoaoPedro">
     <img src="https://img.shields.io/badge/-frJoaoPedro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
