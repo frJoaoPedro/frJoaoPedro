@@ -44,7 +44,7 @@ I'm in the process of transitioning from **Portugol to Java**, focusing on devel
 
 ---
 
-## 🚀 Current Goals
+## Currently Learning
 
 - Master the basics of **Java**
 - Understand the fundamentals of **Object-Oriented Programming (OOP)**
