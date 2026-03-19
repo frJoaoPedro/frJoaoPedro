@@ -1,38 +1,59 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=%E2%9C%A6+Welcome+to+my+GitHub!+%F0%9F%91%BE+%E2%9C%A6;Computer+Science+Student;Focusing+on+Back-end+and+AI" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=%E2%9C%A6+Welcome+to+my+GitHub!+%F0%9F%91%BE+%E2%9C%A6;Computer+Science+Student;Java+Explorer" alt="Typing SVG">
   </a>
 </div>
 
-## About Me
-Hi! I'm **João Pedro**, a **Computer Science student** at UNA (Brazil). I'm currently focused on solving complex problems through code and building a solid foundation to become a robust software engineer.
+---
 
-* 🚀 Currently diving deep into **Algorithms, Programming Logic, and UX/HCI**.
-* 🧠 My main interests are **Artificial Intelligence** and **Back-end architecture**.
-* 🇬🇧 Intermediate English (active technical reading).
-* 📍 Based in Contagem/MG, Brazil.
+## 👨‍💻 About Me
+
+Hi! I'm **João Pedro**, a **Computer Science student** at UNA (Brazil), currently in my first semester.
+
+I'm in the process of transitioning from **Portugol to Java**, focusing on developing a strong foundation in **programming logic** and **problem-solving**.
+
+-  Currently learning **Java Programming & Algorithms**
+-  Focused on improving **computational thinking** and logic
+-  Interested in **Artificial Intelligence** and **Back-end development**
+- 🇬🇧 Intermediate English (technical reading)
+- 📍 Based in Contagem, MG, Brazil
 
 ---
 
-## 🛠️ Technologies & Tools
-*Focusing on mastering the fundamentals of computing:*
+##  Technologies & Tools
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Programming_Logic-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Logic" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
+💻 **Languages:**
+- ☕ `Java` (learning the fundamentals)
+
+🧰 **Tools:**
+- 🟦 `VS Code`
+- 🐙 `GitHub`
+
+ **Foundations:**
+- `Programming Logic`
+- `Algorithms`
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
 
-## 🎯 Connect with me
+## 🚀 Current Goals
+
+- Master the basics of **Java**
+- Understand the fundamentals of **Object-Oriented Programming (OOP)**
+- Learn how to use **Git** to version my projects
+
+---
+
+## 🌐 Let's connect
+
 <p align="center">
   <a href="https://github.com/frJoaoPedro">
     <img src="https://img.shields.io/badge/-frJoaoPedro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -46,6 +67,8 @@ Hi! I'm **João Pedro**, a **Computer Science student** at UNA (Brazil). I'm cur
     <img src="https://img.shields.io/badge/Gmail-nebruxel.jp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+---
 
 <div align="center">
   <picture>
