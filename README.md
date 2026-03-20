@@ -12,7 +12,7 @@ Hi! I'm **João Pedro**, a **Computer Science student** at UNA (Brazil), current
 
 I'm in the process of transitioning from **Portugol to Java**, focusing on developing a strong foundation in **programming logic** and **problem-solving**.
 
--  Currently learning **Java Programming & Algorithms**
+-  Currently learning **Java Programming & c# Programming **
 -  Focused on improving **computational thinking** and logic
 -  Interested in **Artificial Intelligence** and **Back-end development**
 - 🇬🇧 Intermediate English (technical reading)
@@ -24,29 +24,25 @@ I'm in the process of transitioning from **Portugol to Java**, focusing on devel
 
 💻 **Languages:**
 - ☕ `Java` (learning the fundamentals)
+- 🔷 `C#` (Starting my journey)
 
 🧰 **Tools:**
 - 🟦 `VS Code`
 - 🐙 `GitHub`
-
- **Foundations:**
-- `Programming Logic`
-- `Algorithms`
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&langs_count=7&theme=dracula" />
 </div>
-
 ---
 
 ## Currently Learning
 
-- Master the basics of **Java**
+- the basics of **Java**
 - Understand the fundamentals of **Object-Oriented Programming (OOP)**
 - Learn how to use **Git** to version my projects
 
