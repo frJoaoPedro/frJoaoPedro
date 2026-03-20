@@ -42,7 +42,7 @@ I'm in the process of transitioning from **Portugol to Java**, focusing on devel
 
 ## Currently Learning
 
-- the basics of **Java**
+- the basics of **Java** && **C#**
 - Understand the fundamentals of **Object-Oriented Programming (OOP)**
 - Learn how to use **Git** to version my projects
 
