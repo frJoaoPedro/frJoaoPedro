@@ -26,10 +26,11 @@ I'm in the process of transitioning from **Portugol to Java**, focusing on devel
 - ☕ `Java` (learning the fundamentals)
 - 🔷 `C#` (Starting my journey)
 
+
 🧰 **Tools:**
 - 🟦 `VS Code`
 - 🐙 `GitHub`
-
+- 🐙 `GIT`
 ---
 
 ## 📊 GitHub Stats
