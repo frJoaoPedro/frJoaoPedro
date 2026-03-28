@@ -1,76 +1,48 @@
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=%E2%9C%A6+Welcome+to+my+GitHub!+%F0%9F%91%BE+%E2%9C%A6;Computer+Science+Student;Java+Explorer" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=%E2%9C%A6+Welcome+to+my+GitHub!+%F0%9F%91%BE+%E2%9C%A6;" alt="Typing SVG">
+  
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400px">
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 Sobre mim
+Estudante de **Ciência da Computação** (1º período) na UNA.  
+Focado na transição para **Java** e **C#**, com interesse em Back-end e IA.
 
-Hi! I'm **João Pedro**, a **Computer Science student** at UNA (Brazil), currently in my first semester.
-
-I'm in the process of transitioning from **Portugol to Java**, focusing on developing a strong foundation in **programming logic** and **problem-solving**.
-
--  Currently learning **Java Programming & c# Programming **
--  Focused on improving **computational thinking** and logic
--  Interested in **Artificial Intelligence** and **Back-end development**
-- 🇬🇧 Intermediate English (technical reading)
-- 📍 Based in Contagem, MG, Brazil
+- ☕ **Stack:** Java & C#
+- 🛠️ **Tools:** VS Code, Git & GitHub
+- 🇬🇧 **English:** Intermediate (Technical)
+- 📍 Contagem, MG - Brasil
 
 ---
 
-##  Technologies & Tools
-
-💻 **Languages:**
-- ☕ `Java` (learning the fundamentals)
-- 🔷 `C#` (Starting my journey)
-
-
-🧰 **Tools:**
-- 🟦 `VS Code`
-- 🐙 `GitHub`
-- 🐙 `GIT`
----
-
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&langs_count=7&theme=dracula" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
----
-
-## Currently Learning
-
-- the basics of **Java** && **C#**
-- Understand the fundamentals of **Object-Oriented Programming (OOP)**
-- Learn how to use **Git** to version my projects
 
 ---
 
-## 🌐 Let's connect
-
+### 🌐 Conecte-se
 <p align="center">
   <a href="https://github.com/frJoaoPedro">
-    <img src="https://img.shields.io/badge/-frJoaoPedro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-frJoaoPedro-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-65b1873b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-João%20Pedro-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:nebruxel.jp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nebruxel.jp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Game" src="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake.svg" width="60%">
   </picture>
 </div>
