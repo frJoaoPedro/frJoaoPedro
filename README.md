@@ -18,10 +18,11 @@ Focado na transição para **Java** e **C#**, com interesse em Back-end e IA.
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -41,6 +42,6 @@ Focado na transição para **Java** e **C#**, com interesse em Back-end e IA.
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake Game" src="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake.svg" width="60%">
+    <img alt="Snake Game" src="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake.svg" width="80%">
   </picture>
 </div>
