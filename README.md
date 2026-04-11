@@ -11,7 +11,7 @@
 
 ### 🖥️ `System.out.println("Sobre mim");`
 Estudante de **Ciência da Computação** (1º período) na UNA.  
-Focado na transição para **Java** e **C#**, com interesse em Back-end e IA.
+Focado no aprendizado de **Java** e **C#**, com interesse em Full-Stack, Back-end e IA.
 
 - ☕ **Stack:** Java & C#
 - 🛠️ **Tools:** VS Code, Git & GitHub
