@@ -1,13 +1,13 @@
 <div align="center">
 
 ```
-          ╔═══════════════════════════════════════════════════════════╗
-          ║                                                           ║
-           ║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-            ║   ░  João Pedro · Computer Science · UNA Contagem  ░  ║
-           ║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-          ║                                                           ║
-          ╚═══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
+║   ░  João Pedro · Computer Science · UNA Contagem  ░   ║
+║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22)%3B+%E2%98%95;Iniciando+1%C2%BA+per%C3%ADodo+%F0%9F%93%9A+%7C+2026;Java+%7C+C%23+%7C+Full-Stack+em+construc%CC%A7a%CC%83o...;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
