@@ -1,76 +1,127 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C853&center=true&vCenter=true&width=550&lines=%E2%9C%A6+Welcome+to+my+GitHub!+%F0%9F%91%BE+%E2%9C%A6;" alt="Typing SVG">
-  
-### Computer Science Student
 
-![Localização](https://img.shields.io/badge/Location-Contagem,%20MG-000?style=for-the-badge&logo=googlemaps&logoColor=white) ![Inglês](https://img.shields.io/badge/English-Intermediate-000?style=for-the-badge&logo=googletranslate&logoColor=white) ![OS](https://img.shields.io/badge/OS-CachyOS%20Linux-000?style=for-the-badge&logo=archlinux&logoColor=1793D1)
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400px">
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
+║   ░  João Pedro · Computer Science · UNA Contagem  ░   ║
+║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22)%3B+%E2%98%95;Iniciando+1%C2%BA+per%C3%ADodo+%F0%9F%93%9A+%7C+2026;Java+%7C+C%23+%7C+Full-Stack+em+construc%CC%A7a%CC%83o...;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
+
+<br>
+
+![Location](https://img.shields.io/badge/📍_Contagem,_MG-000000?style=for-the-badge&logoColor=white)
+![English](https://img.shields.io/badge/🇬🇧_English-Intermediate-000000?style=for-the-badge)
+
+
 </div>
 
 ---
 
-### 🖥️ `System.out.println("Sobre mim");`
-Estudante de **Ciência da Computação** (1º período) na UNA.  
-Focado no aprendizado de **Java** e **C#**, com interesse em Full-Stack, Back-end e IA.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="340px" />
 
-- ☕ **Stack:** Java & C#
-- 🛠️ **Tools:** VS Code, Git & GitHub
-- 🇬🇧 **English:** Intermediate (Technical)
-- 📍 Contagem, MG - Brasil
+### `// sobre mim`
 
----
+```java
+public class JoaoPedro {
 
-### 🛠️ Tecnologias & Ferramentas
+    String nome     = "João Pedro";
+    String curso    = "Ciência da Computação";
+    String facul    = "UNA Contagem";
+    int    periodo  = 1;
+    int    ano      = 2026;
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+    String[] stack    = { "Java", "C#" };
+    String[] tools    = { "VSCode", "Git", "GitHub" };
+    String[] studying = { "POO", "Algoritmos", "Full-Stack" };
+    String[] goals    = { "Back-end", "IA", "Open Source" };
 
----
+    String idioma = "Inglês técnico intermediário";
+    String os     = "CachyOS Linux";
+}
+```
 
-### 📊 GitHub Analysis
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=frJoaoPedro&theme=vision-friendly-dark&hide_border=true" />
-</p>
+<br clear="right"/>
 
 ---
 
-### 🚀 Roadmap de Projetos
+### `// tecnologias`
 
-- ☕ **Java Fundamentals:** Algoritmos, POO e exercícios acadêmicos.
-- ⚡ **C# Exploration:** Algoritimos de entrada e saida de prática
+<div align="center">
+
+**Linguagens**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Ferramentas**
+
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
+
+</div>
 
 ---
 
-### 📫 Contato
+### `// stats`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-65b1873b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:nebruxel.jp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+<div align="center">
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="right">
-  <sub><i>"Talk is cheap. Show me the code."</i><br>Última atualização: Abril de 2026</sub>
-</p>
+<div align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=frJoaoPedro&theme=tokyonight&hide_border=true" />
+</div>
 
---- 
+---
+
+### `// roadmap`
+
+```
+2026 ──────────────────────────────────────────────────────────▶
+
+  [✅] Iniciar CS na UNA Contagem          FEV/2026
+  [🔄] Java Fundamentals — POO & Algoritmos
+  [🔄] C# — Entrada, saída e lógica básica
+  [⏳] Primeiro projeto Full-Stack
+  [⏳] Contribuição Open Source
+  [⏳] Estágio em Dev                      2026/2027
+```
+
+---
+
+### `// contato`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-65b1873b0/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nebruxel.jp@gmail.com)
+
+</div>
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake Game" src="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake.svg" width="80%">
+    <img alt="Snake" src="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake.svg" width="80%" />
   </picture>
+
+<br><br>
+
+<sub><i>"Talk is cheap. Show me the code."</i> — Linus Torvalds</sub>
+
+<br>
+
+<sub>Última atualização: Abril de 2026</sub>
+
 </div>
