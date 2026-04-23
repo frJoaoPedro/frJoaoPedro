@@ -86,10 +86,6 @@ class JoaoPedro {
   <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=frJoaoPedro&theme=tokyonight&hide_border=true" />
-</div>
-
 <br>
 
 <div align="center">
