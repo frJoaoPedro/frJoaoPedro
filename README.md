@@ -1,7 +1,7 @@
 <div align="center">
 
 # João Pedro
-**Ciência da Computação @ UNA Contagem**
+**Computer Science @ UNA Contagem**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B9EED&center=true&vCenter=true&width=400&lines=C%23+%7C+Java+%7C+Back-end;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
 
@@ -14,10 +14,10 @@
 ---
 
 ###  Sobre
-Estudante de 1º período focado em **Back-end**. Atualmente explorando o ecossistema .NET e Java para construir aplicações robustas e escaláveis.
+About 1st period student focused on **Back-end**. Currently exploring the ecosystem.NET and Java to build robust and stable applications. 
 
 -  **Stack:** C#, Java, Git & GitHub.
--  **Estudando:** POO e Estrutura de Dados.
+-  **Studying:** OOP and Data Structure.
 - 📍 **Local:** Contagem, MG.
 
 ---
