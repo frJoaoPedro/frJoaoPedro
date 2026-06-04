@@ -1,38 +1,94 @@
 <div align="center">
 
-# João Pedro
-**Computer Science @ UNA Contagem**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B9EED&center=true&vCenter=true&width=400&lines=C%23+%7C+Java+%7C+Back-end;Talk+is+cheap.+Show+me+the+code." alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-pedro-65b1873b0/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/frJoaoPedro)
-![English](https://img.shields.io/badge/English-Intermediate-blue?style=flat-square)
+```
+##    ## ########        ## ########  
+###   ## ##     ##       ## ##     ## 
+####  ## ##     ##       ## ##     ## 
+## ## ## ########        ## ########  
+##  #### ##     ## ##    ## ##        
+##   ### ##     ## ##    ## ##        
+##    ## ########   ######  ##        
+```
 
 </div>
 
 ---
 
-###  Sobre
-About 1st period student focused on **Back-end**. Currently exploring the ecosystem.NET and Java to build robust and stable applications. 
-
--  **Stack:** C#, Java, Git & GitHub.
--  **Studying:** OOP and Data Structure.
-- 📍 **Local:** Contagem, MG.
+```bash
+$ whoami
+> João Pedro — Back-end Developer em construção
+> CS @ UNA Contagem · Contagem, MG
+> Stack: C# · Java · Git
+> Status: 1º período, já no código
+```
 
 ---
 
-###  Stats
+### // sobre
+
+Estudante de Ciência da Computação focado em **back-end**. Explorando o ecossistema **.NET** e **Java** para construir aplicações robustas. Acredito que código limpo e arquitetura sólida são mais importantes que hype.
+
+- 🔧 Atualmente estudando **POO e Estruturas de Dados**
+- 📍 Contagem, MG
+- 🌐 Inglês intermediário
+
+---
+
+### // stack
+
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&theme=tokyonight&hide_border=true" />
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
+
+### // stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=frJoaoPedro&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frJoaoPedro&layout=compact&theme=midnight-purple&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frJoaoPedro&theme=midnight-purple&hide_border=true" />
+</div>
+
+---
+
+### // atividade
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake" src="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake.svg" width="60%" />
+    <img alt="Snake" src="https://raw.githubusercontent.com/frJoaoPedro/frJoaoPedro/output/github-contribution-grid-snake.svg" width="70%" />
   </picture>
+</div>
+
+---
+
+### // contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-65b1873b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frJoaoPedro)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Talk is cheap. Show me the code." — Linus Torvalds
+```
+
+![Visitor Badge](https://visitor-badge.liter.workers.dev/badge?page_id=frJoaoPedro.frJoaoPedro)
+
 </div>
