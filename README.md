@@ -60,23 +60,6 @@ public class JoaoPedro : Developer
 
 <br>
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/frJoaoPedro/seu-repo-aqui">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=frJoaoPedro&repo=seu-repo-aqui&theme=midnight-purple&hide_border=true" width="48%" alt="Projeto 1"/>
-</a>
-<a href="https://github.com/frJoaoPedro/seu-repo-aqui-2">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=frJoaoPedro&repo=seu-repo-aqui-2&theme=midnight-purple&hide_border=true" width="48%" alt="Projeto 2"/>
-</a>
-
-</div>
-
-> 💡 *Dica: troque `seu-repo-aqui` pelo nome real dos seus repositórios para os cards acima carregarem automaticamente com descrição, linguagem e estrelas.*
-
-- 🔹 **[Nome do Projeto 1](https://github.com/frJoaoPedro/seu-repo-aqui)** — API em ASP.NET Core que faz X, Y e Z.
-- 🔹 **[Nome do Projeto 2](https://github.com/frJoaoPedro/seu-repo-aqui-2)** — Aplicação em C# aplicando POO e Clean Code.
 
 <br>
 
