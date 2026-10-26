@@ -4,6 +4,5 @@
 
 
 ```javascript
-function introducaoDoPerfil() {
-  console.log("bora que bora");
+    function introducaoDoPerfil() {  console.log("bora que bora");
 }
