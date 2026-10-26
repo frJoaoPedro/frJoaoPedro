@@ -1,8 +1,17 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=b81414:512BD4,100:b81414&height=220&section=header&text=Opa,%20eu%20sou%20o%20João%20Pedro&fontSize=42&animation=fadeIn&fontAlignY=35&dr%20%7C%20Ciência%20da%20Computação&descAlignY=52&descAlign=50&fontColor=000000" alt="Header animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=220&section=header&text=Seja%20bem-vindo!&fontSize=42&fontAlignY=35&fontColor=FFFFFF" alt="Header animado" width="100%"/>
 
+# Olá! Eu sou João Pedro 👋
+
+💻 Ciência da Computação
+
+</div>
 
 ```javascript
-    function introducaoDoPerfil() {  console.log("bora que bora");
+function introducaoDoPerfil() {
+    console.log("bora que bora");
 }
+
+introducaoDoPerfil();
+```
